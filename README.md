@@ -1,0 +1,2 @@
+# potencia
+Código de potencia
